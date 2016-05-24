@@ -1,0 +1,10 @@
+[ 2961.206504] cfg80211:   (5490000 KHz - 5710000 KHz @ 160000 KHz), (N/A, 2300 mBm), (0 s)
+[ 2961.206507] cfg80211:   (59000000 KHz - 66000000 KHz @ 2160000 KHz), (N/A, 1000 mBm), (N/A)
+[ 2962.044776] wlp2s0: Limiting TX power to 30 (30 - 0) dBm as advertised by 10:9a:dd:8c:0a:03
+[ 4460.926261] systemd[1]: apt-daily.timer: Adding 8h 54min 34.803364s random time.
+[ 4461.660711] systemd[1]: apt-daily.timer: Adding 2h 51min 21.931724s random time.
+[ 4482.487746] systemd[1]: apt-daily.timer: Adding 9h 44min 26.054582s random time.
+[ 4483.156130] systemd[1]: apt-daily.timer: Adding 6h 48min 47.881425s random time.
+[ 4599.726472] systemd[1]: apt-daily.timer: Adding 9h 53min 14.626018s random time.
+[ 4600.462293] systemd[1]: apt-daily.timer: Adding 8h 21min 13.162220s random time.
+[11783.329367] perf interrupt took too long (5033 > 5000), lowering kernel.perf_event_max_sample_rate to 25000
